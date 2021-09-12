@@ -1,13 +1,10 @@
 Hydrogen System
 ===============
-1)Electrolyzer
---------------
-2)Compressor
-------------
-3)Hydrogen Tank
----------------
-4)Hydrogen Vehicles
--------------------
+1. Electrolyzer
+2. Compressor
+3. Hydrogen Tank
+4. Hydrogen Vehicles
+--------------------
 Description
 -----------
 * Python을 이용한 수소 설비 모델링
