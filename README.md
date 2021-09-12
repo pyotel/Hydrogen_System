@@ -10,10 +10,12 @@ Hydrogen System
 -------------------
 Description
 -----------
-# Python을 이용한 수소 설비 모델링
-# Electrolyzer.py
-## Input
-> Voltage : 수전해설비 입력 전압
-> Current : 수전해설비 입력 전류
-> Pressure : 수전해설비 내부 운전 압력
-> Temperature : 수전해설비 내부 운저 전류
+### Python을 이용한 수소 설비 모델링
+#### Electrolyzer.py
+##### Input
+> Voltage : 수전해설비 입력 전압 [V]
+> Current : 수전해설비 입력 전류 [A]
+> Pressure : 수전해설비 내부 운전 압력 [Bar]
+> Temperature : 수전해설비 내부 운전 온도 [K]
+##### Output
+> Hydrogen rate : 수소 생산량 [mol/s]
