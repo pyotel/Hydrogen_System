@@ -19,6 +19,8 @@ File Explaination
   * T_H2_ele : 수전해설비 내부 운전 온도 [K]
 * Output
   * Hydrogen rate : 수소 생산량 [mol/s]
+* filepath
+  * 예시 데이터의 저장 경로 입력 (ex. ../data/)
 #### Hydrogen_Storage.py
 * Input
   * Hydrogen : 수전해설비로부터 생산되는 수소량 [mol/s]
@@ -27,6 +29,8 @@ File Explaination
   * T_H2_out : 압축기 출력 수소 온도 [K]
 * Output
   * H2 : 수소탱크 내 잔여 수소량 [mole]
+* filepath
+  * 예시 데이터의 저장 경로 입력 (ex. ../data/)
 #### V_operate.csv
 * 수전해설비 입력 전압 데이터 예시
 #### I_operate.csv
