@@ -27,3 +27,15 @@ File Explaination
   * T_H2_out : 압축기 출력 수소 온도 [K]
 * Output
   * H2 : 수소탱크 내 잔여 수소량 [mole]
+#### V_operate.csv
+* 수전해설비 입력 전압 데이터 예시
+#### I_operate.csv
+* 수전해설비 입력 전류 데이터 예시
+#### P_operate.csv
+* 수전해설비 내부 운전 압력 데이터 예시
+#### T_operate.csv
+* 수전해설비 내부 운전 온도 데이터 예시
+#### Vehcile.csv
+* 수소 버스 충전 데이터 예시
+#### Hydrogen.csv
+* 수전해설비 수소 생산량 데이터 예시
